@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://www.youtube.com/watch?v=C9I-W1eTCbk">
+   <a href="https://www.youtube.com/watch?v=BaTd_F2yIrU&t=786s">
    <img src="https://github.com/SunTzunami/SunTzunami/blob/main/demo/mamba.gif"> <br>
    </a>
   <a href="https://www.youtube.com/watch?v=v_VU5wwv2lM">...</a><br><br>
