@@ -1,3 +1,7 @@
+
+<p>
+<img src = https://github.com/SunTzunami/SunTzunami/blob/output/github-contribution-grid-snake.svg>
+</p>
 <p align="center">
    <a href="https://www.youtube.com/watch?v=BaTd_F2yIrU&t=786s">
    <img src="https://github.com/SunTzunami/SunTzunami/blob/main/demo/mamba.gif"> <br>
