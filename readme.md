@@ -1,11 +1,10 @@
-<h3><i>Github contribution snake</i></h3>
+<h3>Github contribution &#128013;</h3>
   <img src="https://github.com/SunTzunami/SunTzunami/blob/output/github-contribution-grid-snake.svg" height="60%" width="60%">
-
 <h3>Interests</h3>
 Health research, Data Analysis, Data visualisation
 <h3>Languages known</h3>
 C/C++, Python, R
-<h3>Selected work</h3>
+<h3>Selected works</h3>
 <i>(click on the figures to get the respective source codes)</i>
 <p>
    <h4>FURY-GL projects</h4>
