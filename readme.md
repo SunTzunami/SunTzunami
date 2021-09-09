@@ -8,7 +8,7 @@ C/C++, Python, R
 <i>(click on the figures to get the respective source codes)</i>
 <p>
    <h4>FURY-GL projects</h4>
-   <a href="https://github.com/fury-gl/fury">FURY</a> is a python library for scientific visualisation. I like to contribute to FURY and was previously a Google Summer of Code participant with FURY.
+   <a href="https://github.com/fury-gl/fury">FURY</a> is a python library for scientific visualisation. I enjoy contributing to FURY and was previously a Google Summer of Code participant there.
    <br>
 <table>
    <th colspan="2" align="center">Misc. animations</th>
