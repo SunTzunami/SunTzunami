@@ -56,6 +56,7 @@ Back in high school, I wasn't particularly fond of computer science as it was to
  <h2>Personal</h2>
  <br>
 <h3>Muses</h3>
+Legends who have inspired me and whose work ethic I try to emulate every single day.
 <table>
   <tr>
     <td><a href="https://en.wikipedia.org/wiki/Kobe_Bryant"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/muses/kb.jpg" width="200" height="200"></a></td>
