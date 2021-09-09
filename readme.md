@@ -6,10 +6,11 @@ Health research, Data Analysis, Data visualisation
 <h3>Languages known</h3>
 C/C++, Python, R
 <h3>Selected work</h3>
+<i>(click on the figures to get the respective source codes)</i>
 <p>
    <h4>FURY-GL projects</h4>
-   I like to contribute to FURY and was previously a Google Summer of Code student here. <a href="https://github.com/fury-gl/fury">FURY</a> is a python library for scientific visualisation. 
-   <br><i>(click on the figures to get the respective source codes)</i>
+   <a href="https://github.com/fury-gl/fury">FURY</a> is a python library for scientific visualisation. I like to contribute to FURY and was previously a Google Summer of Code participant with FURY.
+   <br>
 <table>
    <th colspan="2" align="center">Misc. animations</th>
    <tr>
