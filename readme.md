@@ -1,8 +1,11 @@
+<h3><i>Github contribution snake</i></h3>
+  <img src="https://github.com/SunTzunami/SunTzunami/blob/output/github-contribution-grid-snake.svg" height="60%" width="60%">
+
 <h3>Interests</h3>
 Health research, Data Analysis, Data visualisation
 <h3>Languages known</h3>
 C/C++, Python, R
-<h3>Misc. Work</h3>
+<h3>Selected work</h3>
 <p>
    <h4>FURY-GL projects</h4>
    I like to contribute to FURY and was previously a Google Summer of Code student here. <a href="https://github.com/fury-gl/fury">FURY</a> is a python library for scientific visualisation. 
