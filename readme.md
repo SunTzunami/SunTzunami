@@ -46,7 +46,7 @@ Got interested in finance courtesy <i> The Big Short</i>.
  </ol></p>
  <h4>Space and Light: High School Comp-sci Project</h4>
   <p>  
-Back in high school, I wasn't particularly fond of computer science before I worked on this project as it seemed too abstract for my taste. This project gave me an opportunity to apply what I'd learned over the course of the subject.
+Back in high school, I wasn't particularly fond of computer science as it was too abstract for my taste. This project gave me an opportunity to apply what I'd learned over the course of the subject and this was the first time that I enjoyed programming.
 <table>
    <tr>
       <td><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/dispersion.gif" height="240" width="320"></td>
