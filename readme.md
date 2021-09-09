@@ -16,7 +16,7 @@ C/C++, Python, R
    <th colspan="2" align="center"><a href="https://summerofcode.withgoogle.com/projects/#5165464856035328">Google Summer of Code 2021</a></th>
    <tr>
       <td><a href="https://github.com/SunTzunami/FURY_experimental/blob/master/molecular_viz.py"><img src="https://raw.githubusercontent.com/SunTzunami/FURY_experimental/master/images/4kb2_protein_viz.png" width="300" height="300"></a></td>
-      <td>I brought tools for molecular visualisation <br>to FURY by creating a python module<br> which can be used to create different <br> molecular representations: <ol><li>Stick</li><li>Ribbon</li><li>Ball and Stick</li><li>Sphere</li></ol> <a href="https://github.com/fury-gl/fury/pull/452">Source code for the module</a>.<br><a href="https://gist.github.com/SunTzunami/a46467157483b798342016b1f77903ae">Final report of the work done</a>. <br><a href="https://blogs.python-gsoc.org/en/suntzunamis-blog/">GSoC python blogs</a>. 
+      <td>I brought tools for molecular visualisation <br>to FURY by creating a python module<br> which can be used to create different <br> molecular representations: <ol><li>Stick</li><li>Ribbon</li><li>Ball and Stick</li><li>Sphere</li></ol> <a href="https://github.com/fury-gl/fury/pull/452">Source code for the module</a><br><a href="https://gist.github.com/SunTzunami/a46467157483b798342016b1f77903ae">Final report of the work done</a> <br><a href="https://blogs.python-gsoc.org/en/suntzunamis-blog/">GSoC python blogs</a> 
    </tr>
    <tr>
       <td colspan="2" align="center"><a href="https://github.com/SunTzunami/FURY_experimental/blob/master/molecular_viz_grid.py" ><img src="https://raw.githubusercontent.com/SunTzunami/FURY_experimental/master/images/grid_1crn.png" width="600" height="225"></a></td>
