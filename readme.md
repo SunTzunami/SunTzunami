@@ -48,9 +48,9 @@ Got interested in finance courtesy <i> The Big Short</i>.
   <p>  
 Back in high school, I wasn't particularly fond of computer science as it was too abstract for my taste. This project gave me an opportunity to apply what I'd learned over the course of the subject and this was the first time that I enjoyed programming.
 <table>
-      <tr><td><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/dispersion.gif" height="336" width="448"></td></tr>
-      <tr><td><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/sunlight.gif" height="336" width="448"></td></tr>
-      <tr><td><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/redgiant.gif" height="336" width="448"></td></tr>
+      <tr><td><a href="https://github.com/SunTzunami/Space_and_Light"><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/dispersion.gif" height="336" width="448"></a></td></tr>
+      <tr><td><a href="https://github.com/SunTzunami/Space_and_Light"><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/sunlight.gif" height="336" width="448"></a></td></tr>
+      <tr><td><a href="https://github.com/SunTzunami/Space_and_Light"><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/redgiant.gif" height="336" width="448"></a></td></tr>
 </table>
  </p>
  <h2>Personal</h2>
