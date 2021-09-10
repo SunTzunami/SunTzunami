@@ -73,13 +73,8 @@ Legends who have inspired me and whose work ethic I try to emulate.
 </table>
 </p>
 <br>
-<p align="center">
-<br>
-</p>
-<p align="center">
+<p align="left">
    <a href="https://youtu.be/BaTd_F2yIrU?t=787">
-   <img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/demo/mamba.gif" width="200" height="200"> <br>
-   </a>
-  <p align="center">The most important thing is to try and inspire people so that they can be great at whatever they want to do.<br></p>
-  <p align="right">Kobe Bryant</p>
+   <img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/demo/mamba.gif" width="200" height="200"></a> <blockquote>The most important thing is to try and inspire people so<br> that they can be great at whatever they want to do.</blockquote>
+  <p align="center">Kobe Bryant</p>
 </p>   
