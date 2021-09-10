@@ -64,7 +64,9 @@ Back in high school, I wasn't particularly fond of computer science as it was to
  <h2>Personal</h2>
 <h3>Muses</h3>
 Legends who have inspired me and whose work ethic I try to emulate.
-<table align="center">
+<br>
+<br>
+<table>
   <tr>
     <td><a href="https://en.wikipedia.org/wiki/Kobe_Bryant"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/muses/kb.jpg" width="200" height="200"></a></td>
     <td><a href="https://en.wikipedia.org/wiki/Maryam_Mirzakhani"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/muses/mm.jpg" width="200" height="200"></a></td>
@@ -76,8 +78,8 @@ Legends who have inspired me and whose work ethic I try to emulate.
 <br>
 <br>
 <p align="right">
-  <br>
+  <br> <blockquote align="right">
    <a href="https://youtu.be/BaTd_F2yIrU?t=787">
-   <img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/demo/mamba.gif" width="200" height="200"></a> <blockquote align="right">The most important thing is to try and inspire people so<br> that they can be great at whatever they want to do.</blockquote>
+   <img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/demo/mamba.gif" width="150" height="150"></a> <br>The most important thing is to try and inspire people<br> so that they can be great at whatever they want to do.</blockquote>
   <p align="right">Kobe Bryant</p>
 </p>   
