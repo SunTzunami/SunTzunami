@@ -12,8 +12,8 @@ C/C++, Python, R
 <table>
    <th colspan="2" align="center">Misc. animations</th>
    <tr>
-      <td><a href="https://github.com/SunTzunami/FURY_experimental/blob/master/animated_surfs_viz.py"><img src="https://raw.githubusercontent.com/SunTzunami/FURY_experimental/master/images/animated_surfs_viz.png" width="300" height="300"></a></td>
-      <td><a href="https://github.com/SunTzunami/FURY_experimental/blob/master/brownian_motion_viz.py"><img src="https://raw.githubusercontent.com/SunTzunami/FURY_experimental/master/images/brownian_motion_viz.png" width="300" height="300"></a></td>
+      <td><a href="https://github.com/SunTzunami/FURY_experimental/blob/master/animated_surfs_viz.py"><img src="https://raw.githubusercontent.com/SunTzunami/FURY_experimental/master/gifs/animated_surfaces.gif" width="300" height="300"></a></td>
+      <td><a href="https://github.com/SunTzunami/FURY_experimental/blob/master/brownian_motion_viz.py"><img src="https://raw.githubusercontent.com/SunTzunami/FURY_experimental/master/gifs/brownian.gif" width="300" height="300"></a></td>
    </tr>
    <th colspan="2" align="center"><a href="https://summerofcode.withgoogle.com/projects/#5165464856035328">Google Summer of Code 2021</a></th>
    <tr>
@@ -34,11 +34,11 @@ C/C++, Python, R
  <img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./rhr.png" height="360" width="480">
  </p>
  <hr>
-<h4>Finance projects (creating and backtesting trading algos)</h4>
+<h4>Finance projects (created and backtested trading algos)</h4>
 Got interested in finance courtesy <i> The Big Short</i>.
 <ol>
-   <li>Pairs Trading: This was a group project where I worked with some members of Finance Club IIT Roorkee and we implemented some pairs trading algorithms mentioned in scientific papers. I created a MSE criterion to select pairs and visualised the returns obtained by selecting various pairs (check the figure below). <br><a href="https://github.com/SunTzunami/Pairs_Trading"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./mse.png" height="322" width="390"></a></li>
-   <li>An attempt at making an algorithm that can outperform S&P 500 between 1980-2020<br><a href="https://github.com/SunTzunami/Algorithmic_Trading"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./algo1.png" height="322" width="390"></a><br><i>(Figure above compares the returns of the algorithm with S&P 500)</i></li>
+   <li>Pairs Trading: This was a group project where I worked with some members of Finance Club IIT Roorkee and we implemented some pairs trading algorithms mentioned in scientific papers. I created a MSE criterion to select pairs and visualised the returns obtained by selecting various pairs (check the figure below). <br><a href="https://github.com/SunTzunami/Pairs_Trading"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./mse.png" height="322" width="390"></a></li><br>
+   <li>An attempt at making an algorithm that can outperform S&P 500 between 1980-2020<br><a href="https://github.com/SunTzunami/Algorithmic_Trading"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./algo1.png" height="322" width="390"></a><br><i>(Figure above compares the returns of the algorithm with S&P 500)</i></li><br>
    <li>Algorithm that aims to generate profitable returns on an intraday basis (used RSI, ADX indicators)<br><a href="https://github.com/SunTzunami/Algorithmic_Trading_Intraday"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./intraday_algo.png" height="147" width="808"></a><br><i>(Figure above displays RSI for the given dataset)</i></li>
  </ol></p>
  <hr>
