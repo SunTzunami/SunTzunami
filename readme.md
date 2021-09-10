@@ -4,8 +4,7 @@
 Health research, Data Analysis, Data visualisation
 <h3>Languages known</h3>
 C/C++, Python, R
-<h3>Selected works</h3>
-<i>(click on the figures to get the respective source codes)</i>
+<h3>Selected works <i>(click on the figures to get the respective source codes)</i></h3>
 <p>
    <h4>FURY-GL projects</h4>
    <a href="https://github.com/fury-gl/fury">FURY</a> is a python library for scientific visualisation. I enjoy contributing to FURY and was previously a Google Summer of Code participant there.
@@ -18,21 +17,15 @@ C/C++, Python, R
    </tr>
    <th colspan="2" align="center"><a href="https://summerofcode.withgoogle.com/projects/#5165464856035328">Google Summer of Code 2021</a></th>
    <tr>
-      <td><a href="https://github.com/SunTzunami/FURY_experimental/blob/master/molecular_viz.py"><img src="https://raw.githubusercontent.com/SunTzunami/FURY_experimental/master/images/4kb2_protein_viz.png" width="300" height="300"></a></td>
-      <td>I brought tools for molecular visualisation <br>to FURY by creating a python module<br> which can be used to create different <br> molecular representations: <ol><li>Stick</li><li>Ribbon</li><li>Ball and Stick</li><li>Sphere</li></ol> <a href="https://github.com/fury-gl/fury/pull/452">Source code for the module</a><br><a href="https://gist.github.com/SunTzunami/a46467157483b798342016b1f77903ae">Final report of the work done</a> <br><a href="https://blogs.python-gsoc.org/en/suntzunamis-blog/">GSoC python blogs</a> 
+      <td colspan="2" align="center"><a href="https://github.com/SunTzunami/FURY_experimental/blob/master/molecular_viz_grid.py" ><img src="https://raw.githubusercontent.com/SunTzunami/FURY_experimental/master/images/grid_1crn.png" width="600" height="225"></a></td>
    </tr>
    <tr>
-      <td colspan="2" align="center"><a href="https://github.com/SunTzunami/FURY_experimental/blob/master/molecular_viz_grid.py" ><img src="https://raw.githubusercontent.com/SunTzunami/FURY_experimental/master/images/grid_1crn.png" width="600" height="225"></a></td>
+      <td colspan="2">
+      I brought tools for molecular visualisation to FURY by creating a python module which <br> can be used to create the following molecular representations: <br><br> <ol><li>Stick</li><li>Ribbon</li><li>Ball and Stick</li><li>Sphere</li></ol> <a href="https://github.com/fury-gl/fury/pull/452">Source code for the module</a><br><a href="https://gist.github.com/SunTzunami/a46467157483b798342016b1f77903ae">Final report of the work done</a> <br><a href="https://blogs.python-gsoc.org/en/suntzunamis-blog/">GSoC python blogs</a> </td>
    </tr>
 </table>
    </p>
-<p><br>
-<h4>Transience Animation</h4>
-An attempt at making an animation of one of my favourite anime characters - Uchiha Itachi.
-I made this by using the <a href="https://github.com/pythonarcade/arcade">Python Arcade framework</a>. 
-I designed all the sprites and the backgrounds from scratch by myself.<br>
-<a href="https://github.com/SunTzunami/Transience_animation_PyArcade"><img src="https://raw.githubusercontent.com/SunTzunami/Transience_animation_PyArcade/master/Demo/preview.gif" height="360" width="480"></a>
-</p>
+<hr>
 <p>
  <h4>Is exercising good for one's heart?</h4>
  Performed an experiment where I was the subject.
@@ -40,6 +33,7 @@ I designed all the sprites and the backgrounds from scratch by myself.<br>
  <br>
  <img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./rhr.png" height="360" width="480">
  </p>
+ <hr>
 <h4>Finance projects (creating and backtesting trading algos)</h4>
 Got interested in finance courtesy <i> The Big Short</i>.
 <ol>
@@ -47,6 +41,15 @@ Got interested in finance courtesy <i> The Big Short</i>.
    <li>An attempt at making an algorithm that can outperform S&P 500 between 1980-2020<br><a href="https://github.com/SunTzunami/Algorithmic_Trading"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./algo1.png" height="322" width="390"></a><br><i>(Figure above compares the returns of the algorithm with S&P 500)</i></li>
    <li>Algorithm that aims to generate profitable returns on an intraday basis (used RSI, ADX indicators)<br><a href="https://github.com/SunTzunami/Algorithmic_Trading_Intraday"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./intraday_algo.png" height="147" width="808"></a><br><i>(Figure above displays RSI for the given dataset)</i></li>
  </ol></p>
+ <hr>
+ <p>
+<h4>Transience Animation</h4>
+An attempt at making an animation of one of my favourite anime characters - Uchiha Itachi.
+I made this by using the <a href="https://github.com/pythonarcade/arcade">Python Arcade framework</a>. 
+I designed all the sprites and the backgrounds from scratch by myself.<br>
+<a href="https://github.com/SunTzunami/Transience_animation_PyArcade"><img src="https://raw.githubusercontent.com/SunTzunami/Transience_animation_PyArcade/master/Demo/preview.gif" height="360" width="480"></a>
+</p>
+<hr>
  <h4>Space and Light: High School Comp-sci Project</h4>
   <p>  
 Back in high school, I wasn't particularly fond of computer science as it was too abstract for my taste. This project gave me an opportunity to apply what I'd learned over the course of the subject and this was the first time that I enjoyed programming.
@@ -55,11 +58,12 @@ Back in high school, I wasn't particularly fond of computer science as it was to
       <tr><td><a href="https://github.com/SunTzunami/Space_and_Light"><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/sunlight.gif" height="336" width="448"></a></td></tr>
       <tr><td><a href="https://github.com/SunTzunami/Space_and_Light"><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/redgiant.gif" height="336" width="448"></a></td></tr>
 </table>
+<hr>
+<br>
  </p>
  <h2>Personal</h2>
- <br>
 <h3>Muses</h3>
-Legends who have inspired me and whose work ethic I try to emulate every single day.
+Legends who have inspired me and whose work ethic I try to emulate.
 <table>
   <tr>
     <td><a href="https://en.wikipedia.org/wiki/Kobe_Bryant"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/muses/kb.jpg" width="200" height="200"></a></td>
