@@ -4,7 +4,7 @@
 Health research, Data Analysis, Data visualisation
 <h3>Languages known</h3>
 C/C++, Python, R
-<h3>Selected works <i>(click on the figures to get the respective source codes)</i></h3>
+<h3>Selected works <i> <br>(click on the figures to get the respective source codes)</i></h3>
 <p>
    <h4>FURY-GL projects</h4>
    <a href="https://github.com/fury-gl/fury">FURY</a> is a python library for scientific visualisation. I enjoy contributing to FURY and was previously a Google Summer of Code participant with FURY.
@@ -37,7 +37,7 @@ C/C++, Python, R
 <h4>Finance projects (created and backtested trading algos)</h4>
 Got interested in finance courtesy <i> The Big Short</i>.
 <ol>
-   <li>Pairs Trading: This was a group project where I worked with some members of Finance Club IIT Roorkee and we implemented some pairs trading algorithms mentioned in scientific papers. I created a MSE criterion to select pairs and visualised the returns obtained by selecting various pairs (check the figure below). <br><a href="https://github.com/SunTzunami/Pairs_Trading"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./mse.png" height="322" width="390"></a></li><br>
+   <li>Pairs Trading: This was a group project where I worked with my friends in Finance Club IIT Roorkee and we implemented some pairs trading algorithms mentioned in scientific papers. I created a MSE criterion to select the pairs and visualised the returns obtained by selecting various pairs (check the figure below). <br><a href="https://github.com/SunTzunami/Pairs_Trading"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./mse.png" height="322" width="390"></a></li><br>
    <li>An attempt at making an algorithm that can outperform S&P 500 between 1980-2020<br><a href="https://github.com/SunTzunami/Algorithmic_Trading"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./algo1.png" height="322" width="390"></a><br><i>(Figure above compares the returns of the algorithm with S&P 500)</i></li><br>
    <li>Algorithm that aims to generate profitable returns on an intraday basis (used Used RSI and ADX indicators to devise a profit booking logic and position management logic)<br><a href="https://github.com/SunTzunami/Algorithmic_Trading_Intraday"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./intraday_algo.png" height="147" width="808"></a><br><i>(Figure above displays RSI for the given dataset)</i></li>
  </ol></p>
@@ -52,7 +52,7 @@ I designed all the sprites and the backgrounds from scratch by myself.<br>
 <hr>
  <h4>Space and Light: High School Comp-sci Project</h4>
   <p>  
-Back in high school, I wasn't particularly fond of computer science as it was too abstract for my taste. This project gave me an opportunity to apply what I'd learned over the course of the subject and this was the first time that I enjoyed programming.
+Back in high school, I wasn't particularly fond of computer science as it seemed too abstract. This project gave me an opportunity to apply what I'd learned over the course of the subject and this was the first time that I enjoyed programming.
 <table>
       <tr><td><a href="https://github.com/SunTzunami/Space_and_Light"><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/dispersion.gif" height="336" width="448"></a></td></tr>
       <tr><td><a href="https://github.com/SunTzunami/Space_and_Light"><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/sunlight.gif" height="336" width="448"></a></td></tr>
