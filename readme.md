@@ -1,4 +1,4 @@
-Namaste
+Hi
 <br>
 I'm a final year Industrial Engineering undergrad at Indian Institute of Technology Roorkee. My current areas of interest include health research, data analysis and scientific visualization. My favorite pastimes include playing football and ultimate frisbee (not at the same time though), hiking, biking, reading books and watching anime (in that order).
 
