@@ -1,15 +1,13 @@
-Hi. 
+Namaste
 <br>
-I'm a third year Industrial Engineering student at Indian Institute of Technology Roorkee. My current areas of interest include health research, data analysis and scientific visualization. My favorite pastimes include reading books and playing football.
+I'm a final year Industrial Engineering undergrad at Indian Institute of Technology Roorkee. My current areas of interest include health research, data analysis and scientific visualization. My favorite pastimes include playing football and ultimate frisbee (not at the same time though), hiking, biking, reading books and watching anime (in that order).
 
-<h3>Github contribution &#128013;</h3>
- <a href="https://www.theplayerstribune.com/articles/kobe-bryant-allen-iverson-obsession-is-natural"> <img src="https://github.com/SunTzunami/SunTzunami/blob/output/github-contribution-grid-snake.svg" height="60%" width="60%"></a>
-<h3>Languages known</h3>
-C/C++, Python, R
+<h3>Languages and softwares known</h3>
+C/C++, Python, R, SPSS
 <h3>Selected works <i> <br>(click on the figures to get the respective source codes)</i></h3>
 <p>
-   <h4>FURY-GL projects</h4>
-   <a href="https://github.com/fury-gl/fury">FURY</a> is a python library for scientific visualisation. I enjoy contributing to FURY and was previously a Google Summer of Code participant with FURY.
+   <h4>FURY-GL projects (Nov 2020 - present)</h4>
+   <a href="https://fury.gl/latest/index.html">FURY</a> is a python library for scientific visualisation. I enjoy contributing to FURY and was previously a Google Summer of Code participant with FURY.
    <br>
 <table>
    <th colspan="2" align="center">Misc. animations</th>
@@ -29,7 +27,7 @@ C/C++, Python, R
    </p>
 <hr>
 <p>
- <h4>Is exercising good for one's heart?</h4>
+ <h4>Is exercising good for one's heart? (Aug 2020 - Dec 2020)</h4>
  Performed an experiment where I was the subject.
  (For more details about this project, <a href="mailto:sajagtsunami@gmail.com">mail me</a>)
  <br>
@@ -39,20 +37,20 @@ C/C++, Python, R
 <h4>Finance projects (created and backtested trading algos)</h4>
 Got interested in finance courtesy <i> The Big Short</i>.
 <ol>
-   <li>Pairs Trading: This was a group project where I worked with my friends in Finance Club IIT Roorkee and we implemented some pairs trading algorithms mentioned in scientific papers. I created a MSE criterion to select the pairs and visualised the returns obtained by selecting various pairs (check the figure below). <br><a href="https://github.com/SunTzunami/Pairs_Trading"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./mse.png" height="322" width="390"></a></li><br>
-   <li>An attempt at making an algorithm that can outperform S&P 500 between 1980-2020<br><a href="https://github.com/SunTzunami/Algorithmic_Trading"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./algo1.png" height="322" width="390"></a><br><i>(Figure above compares the returns of the algorithm with S&P 500)</i></li><br>
-   <li>Algorithm that aims to generate profitable returns on an intraday basis (used Used RSI and ADX indicators to devise a profit booking logic and position management logic)<br><a href="https://github.com/SunTzunami/Algorithmic_Trading_Intraday"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./intraday_algo.png" height="147" width="808"></a><br><i>(Figure above displays RSI for the given dataset)</i></li>
+   <li>Pairs Trading (Sep 2020 - Jan 2021): This was a group project where I worked with my friends in Finance Club IIT Roorkee and we implemented some pairs trading algorithms mentioned in scientific papers. I created a MSE criterion to select the pairs and visualised the returns obtained by selecting various pairs (check the figure below). <br><a href="https://github.com/SunTzunami/Pairs_Trading"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./mse.png" height="322" width="390"></a></li><br>
+   <li>An attempt at making an algorithm that can outperform S&P 500 between 1980-2020 (Jul 2020)<br><a href="https://github.com/SunTzunami/Algorithmic_Trading"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./algo1.png" height="322" width="390"></a><br><i>(Figure above compares the returns of the algorithm with S&P 500)</i></li><br>
+   <li>Algorithm that aims to generate profitable returns on an intraday basis (used Used RSI and ADX indicators to devise a profit booking logic and position management logic) (Jul 2020)<br><a href="https://github.com/SunTzunami/Algorithmic_Trading_Intraday"><img src="https://raw.githubusercontent.com/SunTzunami/SunTzunami/main/misc./intraday_algo.png" height="147" width="808"></a><br><i>(Figure above displays RSI for the given dataset)</i></li>
  </ol></p>
  <hr>
  <p>
-<h4>Transience Animation</h4>
+<h4>Transience Animation (Sep 2020)</h4>
 An attempt at making an animation of one of my favourite anime characters - Uchiha Itachi.
 I made this by using the <a href="https://github.com/pythonarcade/arcade">Python Arcade framework</a>. 
 I designed all the sprites and the backgrounds from scratch by myself.<br>
 <a href="https://github.com/SunTzunami/Transience_animation_PyArcade"><img src="https://raw.githubusercontent.com/SunTzunami/Transience_animation_PyArcade/master/Demo/preview.gif" height="360" width="480"></a>
 </p>
 <hr>
- <h4>Space and Light: High School Comp-sci Project</h4>
+ <h4>Space and Light: High School Comp-sci Project (Oct 2018 - Feb 2019)</h4>
   <p>  
 Back in high school, I wasn't particularly fond of computer science as it seemed too abstract. This project gave me an opportunity to apply what I'd learned over the course of the subject and this was the first time that I enjoyed programming.
 <table>
@@ -83,7 +81,6 @@ Legends who have inspired me and whose work ethic I try to emulate.
 <h3>Socials</h3>
 <p><a href="https://twitter.com/Swami824" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sajag-swami-3082891a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@sajagtsunami" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
 <br>
 <br>
 <p align="right">
