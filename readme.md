@@ -61,6 +61,13 @@ Back in high school, I wasn't particularly fond of computer science as it seemed
 <hr>
 <br>
  </p>
+ <h2>Publications</h2>
+ <p><a href="https://link.springer.com/chapter/10.1007/978-3-031-27250-9_10">Investigating Innovized Progress Operators with Different Machine Learning Methods</a>
+<ul>
+   <li> Performed literature review to understand reference vector-based Evolutionary Multi- and Many-objective Optimization algorithms </li>
+   <li> Performed statistical analysis to compare the performance of different ML algorithms with innovized operators IP2 and IP3 and generated plots to understand the differences in the performance </li>
+   <li> Paper accepted in International Conference on Evolutionary Multi-Criterion Optimization: EMO 2023 (second author) DOI: 10.1007/978-3-031-27250-9_10 </li>
+</ul>
  <h2>Personal</h2>
 <h3>Muses</h3>
 Legends who have inspired me and whose work ethic I try to emulate.
