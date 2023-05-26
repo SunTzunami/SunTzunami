@@ -1,9 +1,13 @@
 Hi
 <br>
-I'm a final year Industrial Engineering undergrad at Indian Institute of Technology Roorkee. My current areas of interest include health research, data analysis and scientific visualization. My favorite pastimes include playing football and ultimate frisbee (not at the same time though), hiking, biking, reading books and watching anime (in that order).
+I'm a recent graduate from the Indian Institute of Technology Roorkee, where I obtained a bachelor's degree in Production and Industrial Engineering.
+ 
+My current interests include quantitative finance, data science, multi-objective optimization, and health research. I have actively contributed to various projects in these domains, some of which can be found here. 
 
-<h3>Languages and softwares known</h3>
-C/C++, Python, R, SPSS
+Hobbies: Football, Hiking, Photography, Video editing, Watching anime/reading manga.
+
+<h3>Technical skills</h3>
+C++, R, SPSS, SQL, Excel, C, Python
 <h3>Selected works <i> <br>(click on the figures to get the respective source codes)</i></h3>
 <p>
    <h4>FURY-GL projects (Nov 2020 - present)</h4>
