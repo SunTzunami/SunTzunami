@@ -2,7 +2,7 @@ Hi
 <br>
 I'm a recent graduate from the Indian Institute of Technology Roorkee, where I obtained a bachelor's degree in Production and Industrial Engineering.
  
-My current interests include quantitative finance, data science, multi-objective optimization, and health research. I have actively contributed to various projects in these domains, some of which can be found here. 
+My current interests include data science, finance, multi-objective optimization, health research and scientific visualization. I have actively contributed to various projects in these domains, some of which can be found here. 
 
 Hobbies: Football, Hiking, Photography, Video editing, Watching anime/reading manga.
 
