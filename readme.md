@@ -4,7 +4,7 @@ I'm a recent graduate from the Indian Institute of Technology Roorkee, where I o
  
 My current interests include data science, finance, multi-objective optimization, health research and scientific visualization. I have actively contributed to various projects in these domains, some of which can be found here. 
 
-Hobbies: Football, Hiking, Photography, Video editing, Watching anime/reading manga.
+Hobbies: Running, Futsal/Football, Reading Books
 
 <h3>Technical skills</h3>
 C++, R, SPSS, SQL, Excel, C, Python
@@ -66,6 +66,8 @@ Back in high school, I wasn't particularly fond of computer science as it seemed
 <br>
  </p>
  <h2>Publications</h2>
+ <p><a href="https://doi.org/10.1371/journal.pone.0301774">Socioeconomic status and health disparities drive differences in accelerometer-derived physical activity in fatty liver disease and significant fibrosis</a> <!-- <ul> <li> Curated and analyzed accelerometer-derived physical activity data from the NHANES 2003–2006 dataset to assess its impact on nonalcoholic fatty liver disease (NAFLD) and significant fibrosis risks.</li> <li> Developed survey-weighted multivariable logistic regression models to quantify NAFLD and fibrosis risk reduction with moderate-to-vigorous physical activity (MVPA) and total activity levels, and visualized the results.</li> <li> Findings highlight socioeconomic and racial disparities in NAFLD prevalence despite higher MVPA levels, with protective PA thresholds varying across racial groups.</li> </ul> --> <p>This study investigates the impact of physical activity (PA) on reducing nonalcoholic fatty liver disease (NAFLD) and significant fibrosis risk in the context of socioeconomic and racial disparities. Using data from 2,648 NHANES 2003–2006 participants, multivariable logistic regression models were developed, revealing a 43% reduction in NAFLD risk and a 48% and 70% reduction in fibrosis risk with moderate-to-vigorous PA (MVPA) and total log activity count (TLAC), respectively. Results underscore the role of PA as a protective factor in NAFLD and highlight disparities, showing a higher NAFLD prevalence among Hispanic participants despite higher PA levels. <be>
+<br>Paper published in PLOS ONE (second Author)
  <p><a href="https://link.springer.com/chapter/10.1007/978-3-031-27250-9_10">Investigating Innovized Progress Operators with Different Machine Learning Methods</a>
 <!-- <ul>
    <li> Performed literature review to understand reference vector-based Evolutionary Multi- and Many-objective Optimization algorithms </li>
@@ -73,7 +75,7 @@ Back in high school, I wasn't particularly fond of computer science as it seemed
    <li> Paper accepted in International Conference on Evolutionary Multi-Criterion Optimization: EMO 2023 (second author) DOI: 10.1007/978-3-031-27250-9_10 </li>
 </ul> -->
 <p>This paper explores performance of different Machine Learning (ML) methods on Reference vector (RV) based Evolutionary Multi- and Many-objective Optimization algorithm NSGA-III utilizing innovized operators IP2 and IP3. Through an exploratory analysis of eight different ML methods, the results suggest that kNN emerges as the winner for both IP2 and IP3 in terms of the Hypervolume (HV) metric and corresponding run-time.
-<br>Paper accepted in International Conference on Evolutionary Multi-Criterion Optimization: EMO 2023 (second author) DOI: 10.1007/978-3-031-27250-9_10
+<br>Paper accepted in International Conference on Evolutionary Multi-Criterion Optimization: EMO 2023 (second author)
  <h2>Personal</h2>
 <h3>Muses</h3>
 Legends who have inspired me and whose work ethic I try to emulate.
