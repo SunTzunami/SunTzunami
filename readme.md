@@ -1,13 +1,20 @@
 Hi
 <br>
-I'm a recent graduate from the Indian Institute of Technology Roorkee, where I obtained a bachelor's degree in Production and Industrial Engineering.
- 
+
 My current interests include data science, finance, multi-objective optimization, health research and scientific visualization. I have actively contributed to various projects in these domains, some of which can be found here. 
 
 Hobbies: Reading, Futsal, Running, Football (in that order)
 
+---
+
 <h3>Technical skills</h3>
-C++, R, SPSS, SQL, Excel, C, Python
+
+**Languages:** Python • R • C/C++ • SQL • SPSS • JavaScript/NextJS (in decreasing order of proficiency)
+
+**Tools & Platforms:** Git • Azure DevOps
+
+---
+
 <h3>Selected works <i> <br>(click on the figures to get the respective source codes)</i></h3>
 <p>
    <h4>FURY-GL projects (Nov 2020 - Oct 2021)</h4>
@@ -65,7 +72,7 @@ Back in high school, I wasn't particularly fond of computer science, as it seeme
 <hr>
 <br>
  </p>
- <h2>Publications</h2>
+ <h3>Publications</h3>
  <p><a href="https://doi.org/10.1371/journal.pone.0301774">Socioeconomic status and health disparities drive differences in accelerometer-derived physical activity in fatty liver disease and significant fibrosis</a> <!-- <ul> <li> Curated and analyzed accelerometer-derived physical activity data from the NHANES 2003–2006 dataset to assess its impact on nonalcoholic fatty liver disease (NAFLD) and significant fibrosis risks.</li> <li> Developed survey-weighted multivariable logistic regression models to quantify NAFLD and fibrosis risk reduction with moderate-to-vigorous physical activity (MVPA) and total activity levels, and visualized the results.</li> <li> Findings highlight socioeconomic and racial disparities in NAFLD prevalence despite higher MVPA levels, with protective PA thresholds varying across racial groups.</li> </ul> --> <p>This study investigates the impact of physical activity (PA) on reducing nonalcoholic fatty liver disease (NAFLD) and significant fibrosis risk in the context of socioeconomic and racial disparities. Using data from 2,648 NHANES 2003–2006 participants, multivariable logistic regression models were developed, revealing a 43% reduction in NAFLD risk and a 48% and 70% reduction in fibrosis risk with moderate-to-vigorous PA (MVPA) and total log activity count (TLAC), respectively. Results underscore the role of PA as a protective factor in NAFLD and highlight disparities, showing a higher NAFLD prevalence among Hispanic participants despite higher PA levels. <be>
 <br>Paper published in PLOS ONE (second Author)
  <p><a href="https://link.springer.com/chapter/10.1007/978-3-031-27250-9_10">Investigating Innovized Progress Operators with Different Machine Learning Methods</a>
