@@ -4,13 +4,13 @@ I'm a recent graduate from the Indian Institute of Technology Roorkee, where I o
  
 My current interests include data science, finance, multi-objective optimization, health research and scientific visualization. I have actively contributed to various projects in these domains, some of which can be found here. 
 
-Hobbies: Running, Futsal/Football, Reading Books
+Hobbies: Reading, Futsal, Running, Football (in that order)
 
 <h3>Technical skills</h3>
 C++, R, SPSS, SQL, Excel, C, Python
 <h3>Selected works <i> <br>(click on the figures to get the respective source codes)</i></h3>
 <p>
-   <h4>FURY-GL projects (Nov 2020 - present)</h4>
+   <h4>FURY-GL projects (Nov 2020 - Oct 2021)</h4>
    <a href="https://fury.gl/latest/index.html">FURY</a> is a python library for scientific visualisation. I enjoy contributing to FURY and was previously a Google Summer of Code participant with FURY.
    <br>
 <table>
@@ -54,9 +54,9 @@ I designed all the sprites and the backgrounds from scratch by myself.<br>
 <a href="https://github.com/SunTzunami/Transience_animation_PyArcade"><img src="https://raw.githubusercontent.com/SunTzunami/Transience_animation_PyArcade/master/Demo/preview.gif" height="360" width="480"></a>
 </p>
 <hr>
- <h4>Space and Light: High School Comp-sci Project (Oct 2018 - Feb 2019)</h4>
+ <h4>Space and Light: High School Computer Science Project (Oct 2018 - Feb 2019)</h4>
   <p>  
-Back in high school, I wasn't particularly fond of computer science as it seemed too abstract. This project gave me an opportunity to apply what I'd learned over the course of the subject and this was the first time that I enjoyed programming.
+Back in high school, I wasn't particularly fond of computer science, as it seemed too abstract. This project gave me an opportunity to apply what I'd learned over the course of the subject and this was the first time that I enjoyed programming.
 <table>
       <tr><td><a href="https://github.com/SunTzunami/Space_and_Light"><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/dispersion.gif" height="336" width="448"></a></td></tr>
       <tr><td><a href="https://github.com/SunTzunami/Space_and_Light"><img src="https://raw.githubusercontent.com/SunTzunami/Space_and_Light/master/Demo/sunlight.gif" height="336" width="448"></a></td></tr>
