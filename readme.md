@@ -3,7 +3,7 @@ Hi
 
 My current interests include data science, finance, multi-objective optimization, health research and scientific visualization. I have actively contributed to various projects in these domains, some of which can be found here. 
 
-Hobbies: Reading, Futsal, Running, Football (in that order)
+Hobbies: Coding, 日本語の勉強, Reading, Futsal, Cooking (for Family & Friends), Running, Football (in that order)
 
 ---
 
